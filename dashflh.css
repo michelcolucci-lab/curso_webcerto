@@ -1,0 +1,45 @@
+/*13293D
+006494
+247BA0
+ 1B98E0
+ E8F1F2
+ #286ba8*/
+ body{
+    background-color: #286ba8;
+    position: absolute;
+    margin-top: -180px;
+    width: 100%;
+    text-align: center;
+ }
+#nav1{
+    background-color: aliceblue;
+    line-height: 35px;
+    margin-top: -10px;
+}
+img{
+    width: 600px;
+    height: 350px;
+}
+nav ul{
+    display: flex;
+
+}
+#busca{
+    border-radius: 6px;
+    
+}
+#div2{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    list-style: none;
+    display: flex;
+    gap: 90px;
+    position: relative;
+    left: 325px;
+}
+#img2{
+    width: 35px;
+    height: 40px;
+    position: absolute;
+    top:200px;
+    right: 35px;
+}
